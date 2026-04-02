@@ -3,7 +3,7 @@
 
 # Libredesk
 
-Modern, open source, self-hosted customer support desk. Single binary app. 
+Modern, ope121n source, self-hosted customer support desk. Single binary app. 
 
 ![image](https://libredesk.io/hero.png?v=1)
 
